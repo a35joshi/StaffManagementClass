@@ -1,4 +1,4 @@
-//Exercise 6: Staff Manageming Anurag Joshi 12C
+//Exercise 6: Staff Managing Anurag Joshi 12C
 
 #include <iostream.h>
 #include <conio.h>
